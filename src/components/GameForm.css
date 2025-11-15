@@ -1,0 +1,29 @@
+.formulario {
+  background: #1c1c1c;
+  padding: 20px;
+  border-radius: 10px;
+  width: 300px;
+  margin: 20px auto;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.formulario input {
+  padding: 8px;
+  border: none;
+  border-radius: 5px;
+}
+
+.formulario button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.formulario button:hover {
+  background-color: #0056b3;
+}
