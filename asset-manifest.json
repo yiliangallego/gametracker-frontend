@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gametracker-frontend/static/css/main.57d17887.css",
+    "main.js": "/gametracker-frontend/static/js/main.6296d8cf.js",
+    "index.html": "/gametracker-frontend/index.html",
+    "main.57d17887.css.map": "/gametracker-frontend/static/css/main.57d17887.css.map",
+    "main.6296d8cf.js.map": "/gametracker-frontend/static/js/main.6296d8cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57d17887.css",
+    "static/js/main.6296d8cf.js"
+  ]
+}
